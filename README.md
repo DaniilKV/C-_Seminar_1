@@ -1,9 +1,10 @@
 # C-_Seminar_1
-This repository is created for the seminar 1 homework Introducing programming languages C# 
 
-В папке Task_2 находится решение задачи №2.
+*This repository is created for the seminar 1 homework Introducing programming languages C#*
 
-Задача №2:
+## В папке Task_2 находится решение задачи №2.
+
+### Задача №2:
 Напишите программу, которая на вход принимает два числа и выдаёт, какое число
 большее, а какое меньшее.
 
@@ -16,9 +17,9 @@ This repository is created for the seminar 1 homework Introducing programming la
 
 Представлено решение данной задачи с использованием оператора if / else.
 
-В папке Task_4 находится решение задчи №4.
+## В папке Task_4 находится решение задчи №4.
 
-Задача №4:
+### Задача №4:
 Напишите программу, которая принимает на вход три числа и выдаёт максимальное
 из этих чисел.
 
@@ -32,9 +33,9 @@ This repository is created for the seminar 1 homework Introducing programming la
 Представлено решение задачи с использованием оператора if / else.
 
 
-В папке Task_6 находится решение задчи №6.
+## В папке Task_6 находится решение задчи №6.
 
-Задача №6:
+### Задача №6:
 Напишите программу, которая на вход принимает число и выдаёт, является ли число
 чётным (делится ли оно на два без остатка).
 
@@ -48,9 +49,9 @@ This repository is created for the seminar 1 homework Introducing programming la
 Представлено решение задачи с использованием оператора if / else.
 
 
-В папке Task_8 находится решение задчи №8.
+## В папке Task_8 находится решение задчи №8.
 
-Задача 8:
+### Задача 8:
 Напишите программу, которая на вход принимает число (N), а на выходе показывает
 все чётные числа от 1 до N.
 
